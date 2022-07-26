@@ -1,0 +1,14 @@
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Release\SML.exe.config
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Release\SML.exe
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Release\SML.pdb
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SML.Properties.Resources.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\Artemis.SettingsControl.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SkeetFramework.SkeetButton.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SML.Widgets.ToggleSlider.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\Artemis.ultrasoundsensor.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\Artemis.Window.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SmartLauncher.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SmartLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SML.exe
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SML.pdb
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Release\SmartLauncher.csproj.AssemblyReference.cache

@@ -1,0 +1,77 @@
+E:\SmartLauncher-master\obj\Debug\SmartLauncher.csproj.AssemblyReference.cache
+E:\SmartLauncher-master\obj\Debug\SmartLauncher.csproj.SuggestedBindingRedirects.cache
+E:\SmartLauncher-master\obj\Debug\Artemis.ColorPicker.resources
+E:\SmartLauncher-master\obj\Debug\Artemis.Properties.Resources.resources
+E:\SmartLauncher-master\obj\Debug\Artemis.SettingsControl.resources
+E:\SmartLauncher-master\obj\Debug\SkeetFramework.SkeetButton.resources
+E:\SmartLauncher-master\obj\Debug\Artemis.Skeet_Controls.SkeetSlider.resources
+E:\SmartLauncher-master\obj\Debug\Artemis.ultrasoundsensor.resources
+E:\SmartLauncher-master\obj\Debug\Artemis.Window.resources
+E:\SmartLauncher-master\obj\Debug\SmartLauncher.csproj.GenerateResource.cache
+E:\SmartLauncher-master\obj\Debug\SmartLauncher.csproj.CoreCompileInputs.cache
+E:\SmartLauncher-master\obj\Debug\Artemis.exe
+E:\SmartLauncher-master\obj\Debug\Artemis.pdb
+E:\SmartLauncher-master\bin\Debug\Artemis.exe.config
+E:\SmartLauncher-master\bin\Debug\Artemis.exe
+E:\SmartLauncher-master\bin\Debug\Artemis.pdb
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\bin\Debug\Artemis.exe.config
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\bin\Debug\Artemis.exe
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\bin\Debug\Artemis.pdb
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.AssemblyReference.cache
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.ColorPicker.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.Properties.Resources.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.SettingsControl.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\SkeetFramework.SkeetButton.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.Skeet_Controls.SkeetSlider.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.ultrasoundsensor.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.Window.resources
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.GenerateResource.cache
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.CoreCompileInputs.cache
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.exe
+C:\Users\svgca\OneDrive\Desktop\SmartLauncherApp-master\obj\Debug\Artemis.pdb
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\bin\Debug\Artemis.exe.config
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\bin\Debug\Artemis.exe
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\bin\Debug\Artemis.pdb
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.AssemblyReference.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.ColorPicker.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.Properties.Resources.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.SettingsControl.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\SkeetFramework.SkeetButton.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.Skeet_Controls.SkeetSlider.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.ultrasoundsensor.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.Window.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.GenerateResource.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.CoreCompileInputs.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.exe
+C:\Users\svgca\OneDrive\Desktop\SML Testing\SmartLauncherApp-master\obj\Debug\Artemis.pdb
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.AssemblyReference.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\Artemis.SettingsControl.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SkeetFramework.SkeetButton.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\Artemis.ultrasoundsensor.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\Artemis.Window.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.GenerateResource.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.CoreCompileInputs.cache
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SML.Properties.Resources.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SML.Skeet_Controls.SkeetSlider.resources
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\bin\Debug\SML.exe.config
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\bin\Debug\SML.exe
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\bin\Debug\SML.pdb
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SML.exe
+C:\Users\svgca\OneDrive\Desktop\SML Testing - Copy (2)\SmartLauncherApp-master\obj\Debug\SML.pdb
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Debug\SML.exe.config
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Debug\SML.exe
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\bin\Debug\SML.pdb
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SML.Properties.Resources.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\Artemis.SettingsControl.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SkeetFramework.SkeetButton.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SML.Widgets.ToggleSlider.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\Artemis.ultrasoundsensor.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\Artemis.Window.resources
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.GenerateResource.cache
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SmartLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SML.exe
+C:\Users\Radu\Desktop\SML\SmartLauncherApp-master\obj\Debug\SML.pdb
