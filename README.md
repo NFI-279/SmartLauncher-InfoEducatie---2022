@@ -1,4 +1,4 @@
-# SmartLauncher_latest
+# SmartLauncher Final Version
 Ultima versiune a aplicatiei SmartLauncher pentru etapa nationala
 
 SmartLauncher este o aplicatie de tip desktop GUI care este realizata in C# cu ajutorul framework-ului .NET care primeste si furnizeaza date catre o placa de dezvoltare Wifi NodeMCU ESP8266. Aici am dorit sa construiesc o mini sera. Pe partea de hardware, proiectul este alcatuit din :
